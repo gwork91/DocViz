@@ -6,8 +6,8 @@
         400000,
         25
       ],
-      "tensorPath": "https://github.com/palashgoyal1/DocViz/blob/master/apup_naming_tensor_test.tsv",
-      "metadataPath": "https://github.com/palashgoyal1/DocViz/blob/master/apup_naming_metadata_test.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/palashgoyal1/DocViz/blob/master/apup_naming_tensor_test.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/palashgoyal1/DocViz/blob/master/apup_naming_metadata_test.tsv"
     }
   ]
 }
